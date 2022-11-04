@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "next-idea-app",
+    "slug": "next-idea-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
