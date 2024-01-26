@@ -9,7 +9,8 @@ const theme = {
         textSecondary: '#586069',
         primary:'#0366d6',
         white: '#fefefe',
-        nextBlue:'#005cff'
+        nextBlue:'#005cff',
+        lineGrey:'#ededed',
     },
     fontSizes:{
         body: 14,
